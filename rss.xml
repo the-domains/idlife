@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[iDlife]]></title>
         <description><![CDATA[iDlife]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/idlife/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 00:03:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Dec 2015 00:03:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/idlife/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/idlife/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">1b175ed2-ed7a-4b48-9918-d20958372df0</guid>
-            <pubDate>Wed, 16 Dec 2015 00:03:18 GMT</pubDate>
+            <pubDate>Wed, 16 Dec 2015 00:03:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
