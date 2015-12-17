@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[iDlife]]></title>
         <description><![CDATA[iDlife]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/idlife/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 03:20:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 03:41:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/idlife/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome ]]></title>
             <description><![CDATA[<article><h1>Welcome </h1><p>Every Person Is Unique!
@@ -29,9 +29,16 @@ The ID Nutrition Difference:
 2. We design a person nutrient program just for you (Based on the lastest medical science)
 3. Review your supplement program and order (Your supplements will arrive within 1 week)
 4. Start on the road to better health (Enjoy more energy, better sleep, a stronger immune system and reach your goals.</p></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <link>https://thegrid.ai/idlife/welcome/index.html</link>
             <guid isPermaLink="false">b95b7e17-3551-4b56-b485-283f39814e61</guid>
             <pubDate>Thu, 17 Dec 2015 03:20:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>,,,,,</p>]]></description>
+            <link>https://thegrid.ai/idlife/b03c70ed-33b6-4ece-8207-71f8d5fe3370/index.html</link>
+            <guid isPermaLink="false">b03c70ed-33b6-4ece-8207-71f8d5fe3370</guid>
+            <pubDate>Thu, 17 Dec 2015 03:40:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
