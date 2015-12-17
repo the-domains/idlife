@@ -4,7 +4,7 @@
         <description><![CDATA[iDlife]]></description>
         <link>https://thegrid.ai/idlife/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 03:51:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 03:51:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/idlife/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/idlife/welcome/index.html</link>
             <guid isPermaLink="false">f2cb43a4-45b2-4acf-bf68-da040c88b252</guid>
             <pubDate>Thu, 17 Dec 2015 03:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>,,,,,</p>]]></description>
-            <link>https://thegrid.ai/idlife/b03c70ed-33b6-4ece-8207-71f8d5fe3370/index.html</link>
-            <guid isPermaLink="false">b03c70ed-33b6-4ece-8207-71f8d5fe3370</guid>
-            <pubDate>Thu, 17 Dec 2015 03:40:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
