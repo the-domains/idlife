@@ -1,8 +1,7 @@
-layout_spectrum: 0.5383830147329718
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: iDlife
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.00954
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1116343045141548
-  lightness: 0.8237839294597507
-  brandStrength: 1
   brandColors:
     - '#FFFFFF'
     - '#0188C5'
     - '#01ADF0'
     - '#88D7F4'
     - '#42B2E0'
+  brandStrength: 1
+  lightness: 0.8237839294597507
+  saturation: 0.1116343045141548
   rhythmicContrast: 0.1049976891372353
-typography_spectrum: 0.9670419981703162
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: iDlife
+purpose: []
