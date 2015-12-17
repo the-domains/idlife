@@ -1,0 +1,26 @@
+---
+description: "Take Your Free Assessment Now!\_\_|\_\_ Join IDLife \_\_|\_\_ Login  Home Products IDTransformation The Opportunity The Team Questions Events \_ Weightloss Challenge Fit"
+isBasedOnUrl: 'http://dtieff.idlife.com/idtransformation/index.html'
+author: []
+datePublished: '2015-12-17T03:40:28.138Z'
+publisher:
+  name: dtieff.idlife.com
+  domain: dtieff.idlife.com
+  url: null
+  favicon: null
+dateModified: '2015-12-17T03:40:09.944Z'
+title: ''
+inFeed: true
+hasPage: false
+inNav: false
+inLanguage: null
+starred: true
+keywords: []
+authors: []
+sourcePath: _posts/2015-12-17-take-your-free-assessment-now-or-join-idlife-or-login.md
+published: true
+_context: 'http://schema.org'
+_type: Article
+
+---
+Take Your Free Assessment Now!  |   Join IDLife   |   Login Home Products IDTransformation The Opportunity The Team Questions Events   Weightloss Challenge Fit Challenge Performance Challenge Your IDT Calendar Watch The Video Buy Now         Base Kit     TAKE THE CHALLENGE   After reviewing the comprehensive IDLife product line, the most asked question is, "Where do I start?" IDLife has the answer to your question. Introducing the 28-Day IDTransformation. You choose the flavor combinations and our team will put together your personalized kit that combines the very best protein shakes in the industry, with a natural weight management product that provides a boost to your metabolism and supports the preservation of your lean muscle mass, and an energy product that can give you the immediate boost that you need along with a sustained energy to keep you going throughout the day. When combined with your IDNutrition, you now have the total foundation needed to help you achieve all of your health and wellness goals.\*     Buy Now                       Now that you have made the choice to take The Challenge and transform your body, IDLife wants to make sure that you have the tools and resources to complement the unmatched nutritional products contained within the program. IDWellness is a HIPAA compliant online/mobile resource that allows you to set goals, track your nutrition and fitness progress, educate yourself on every aspect of health and wellness, and get a snap shot of the current state of your health. The best part is that this is all included as part of your IDTransformation package at no additional cost! You've made the decision to transform; now you have a state-of-the-art tool that will track your progress and results.     TOOLS AND RESOURCES     IDLIFE APP IDWELLNESS PROGRAM YOUR IDT CALENDAR 28 DAY GUIDE       DESIGN YOUR CHALLENGE     Learn more Learn more Learn more         SUCCESS STORIES                         WIN $500 EVERY MONTH   Nothing is more rewarding than seeing the results of hard work and dedication to a desired goal. At IDLife we want to recognize and reward those achievements and share them with the world. To do this, we have developed our My Story campaign that financially rewards people every month, simply by sharing their stories of transformation. To participate, simply take your before and after photos and send them, along your submission paperwork to mystory@idlife.com. Who knows, you might just be our next monthly winner!     SUBMIT NOW                             THE FOUNDATION OF HEALTH AND WELLNESS   Though not included in the IDTransformation Kit, IDNutrition is the foundation on which the IDTransformation is built. This one-of-a-kind nutritional supplement program takes all the guesswork out of what you need and delivers your truly personalized pharmaceutical grade nutrition, with your name on it, directly to your door. IDNutrition recommends what you need, leaves out what you don't and blocks things known to the system to have a possible adverse effect based on the answers you provide. The result is a program that is revolutionizing the health and wellness industry.     TAKE THE ASSESSMENT               Results may vary. Exercise and proper diet are necessary to achieve and maintain weight loss and muscle definition. Consult your physician and follow all safety instructions before beginning any exercise program or using any supplement or nutritional product. The information on our websites are not intended to diagnose or treat and medical condition or to replace the advice of a healthcare professional.   These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.   \* IDLife does not represent that its products are certified organic under the United States Department of Agriculture rules and regulations.         Login IDLife Products IDNutrition IDLife Weight Management IDLife Energy IDLife Sleep IDLife Opportunity Compensation Plan IDLife Team Meet The Team Questions IDNutrition FAQ Health Assessment FAQ Weight Management FAQ Connect Contact Us Events IDLife Blog Facebook Twitter Instagram Pinterest YouTube Copyright 2015 ID Life LLC. All rights reserved. Privacy Policy Terms of Use DSA Code of Ethics
